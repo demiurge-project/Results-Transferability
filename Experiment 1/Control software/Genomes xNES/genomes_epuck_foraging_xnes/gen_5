@@ -1,0 +1,50 @@
+/*Fitness: 11.3*/
+genomestart 1
+node 1 0 1 1
+node 2 0 1 1
+node 3 0 1 1
+node 4 0 1 1
+node 5 0 1 1
+node 6 0 1 1
+node 7 0 1 1
+node 8 0 1 1
+node 9 0 1 1
+node 10 0 1 1
+node 11 0 1 1
+node 12 0 1 1
+node 13 0 1 1
+node 14 0 1 1
+node 15 0 1 3
+node 16 0 0 2
+node 17 0 0 2
+gene 0 1 16 -5 0 0 1 1
+gene 0 2 16 5 0 0 1 1
+gene 0 3 16 5 0 0 1 1
+gene 0 4 16 -5 0 0 1 1
+gene 0 5 16 4.27267 0 0 1 1
+gene 0 6 16 3.21273 0 0 1 1
+gene 0 7 16 1.63538 0 0 1 1
+gene 0 8 16 5 0 0 1 1
+gene 0 9 16 5 0 0 1 1
+gene 0 10 16 5 0 0 1 1
+gene 0 11 16 5 0 0 1 1
+gene 0 12 16 5 0 0 1 1
+gene 0 13 16 -5 0 0 1 1
+gene 0 14 16 -1.5954 0 0 1 1
+gene 0 15 16 -5 0 0 1 1
+gene 0 1 17 -5 0 0 1 1
+gene 0 2 17 -5 0 0 1 1
+gene 0 3 17 2.9857 0 0 1 1
+gene 0 4 17 5 0 0 1 1
+gene 0 5 17 5 0 0 1 1
+gene 0 6 17 5 0 0 1 1
+gene 0 7 17 5 0 0 1 1
+gene 0 8 17 5 0 0 1 1
+gene 0 9 17 2.37371 0 0 1 1
+gene 0 10 17 0.746748 0 0 1 1
+gene 0 11 17 0.359115 0 0 1 1
+gene 0 12 17 5 0 0 1 1
+gene 0 13 17 2.3728 0 0 1 1
+gene 0 14 17 5 0 0 1 1
+gene 0 15 17 5 0 0 1 1
+genomeend 1
